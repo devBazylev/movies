@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@reduxjs/toolkit": "1.9.5",
+    "@vercel/blob": "^2.0.0",
     "axios": "0.27.2",
     "history": "5.3.0",
     "http-status-codes": "2.2.0",
